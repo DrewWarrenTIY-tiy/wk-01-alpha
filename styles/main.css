@@ -12,6 +12,7 @@ h1 {
 
 .bassdescription {
   display: inline;
+  font-family: sans-serif;
 }
 
 .notbassdescription {
@@ -19,7 +20,7 @@ h1 {
 }
 
 p.bassdescription {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .notabass {
