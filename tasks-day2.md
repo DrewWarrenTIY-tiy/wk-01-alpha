@@ -11,24 +11,24 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] width
   - [x] height
   - [x] display
-  - [ ] margin
-  - [ ] padding
+  - [x] margin
+  - [x] padding
   - [x] border
-  - [ ] border-radius
+  - [x] border-radius
   - [x] background-color
   - [x] background-image
   - [x] color
   - [x] font-size
   - [x] font-style
   - [x] text-align
-  - [ ] font-weight
+  - [x] font-weight
   - [x] text-decoration
 - Use the following measurements at least once:
   - [x] px
   - [x] %
   - [x] rem
   - [x] em
-- [ ] Modify each of the four different anchor states
+- [x] Modify each of the four different anchor states
 - Make
   - [x] small and frequent git commits
   - [x] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))

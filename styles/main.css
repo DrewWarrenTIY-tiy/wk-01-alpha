@@ -29,10 +29,11 @@ h1 {
 
 .notbassdescription {
   background-color: #CA5835;
+  width: 25%;
 }
 
 p.bassdescription {
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 .notabass {
@@ -55,6 +56,10 @@ h3, li {
 }
 
 img.largemouthbasspic {
+  background-color: #CCC;
   width: 35%;
   height: auto;
+  margin: 30px;
+  padding: 20px;
+  border-radius: 5%;
 }
