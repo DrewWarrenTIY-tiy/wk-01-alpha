@@ -1,0 +1,19 @@
+a {
+  color: darkblue;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: pink;
+}
+
+a:focus {
+  background-color: purple;
+}
+
+a:active {
+  background-color: fuchsia;
+}
