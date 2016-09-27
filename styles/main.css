@@ -1,3 +1,11 @@
+body {
+  background-image: url("../images/flea.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 50%;
+}
+
 h1 {
   font-style: oblique;
 }
@@ -11,6 +19,7 @@ h1 {
 }
 
 .bassdescription {
+  background-color: grey;
   display: inline;
   font-family: sans-serif;
 }
@@ -25,4 +34,9 @@ p.bassdescription {
 
 .notabass {
   border: 10px dotted red;
+}
+
+img.fourstringpic {
+  height: 350px;
+  width: 100px;
 }
