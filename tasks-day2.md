@@ -6,7 +6,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [X] class
   - [x] id
   - [x] distinct nested element and class combination (i.e. if applied to element _or_ class _alone_ then additional nodes would be also be styled;  e.g. `p a`)
-  - [ ] shared styles (e.g. `p, a`)
+  - [x] shared styles (e.g. `p, a`)
 - Add styling including at least one instance for each of these **properties**:
   - [x] width
   - [x] height
@@ -20,13 +20,13 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] color
   - [x] font-size
   - [x] font-style
-  - [ ] text-align
+  - [x] text-align
   - [ ] font-weight
   - [x] text-decoration
 - Use the following measurements at least once:
   - [x] px
   - [x] %
-  - [ ] rem
+  - [x] rem
   - [x] em
 - [ ] Modify each of the four different anchor states
 - Make

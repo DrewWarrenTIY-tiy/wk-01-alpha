@@ -8,6 +8,9 @@ body {
 
 h1 {
   font-style: oblique;
+  font-weight: normal;
+  text-align: center;
+  background-color: #FFF;
 }
 
 .doublebass {
@@ -25,7 +28,7 @@ h1 {
 }
 
 .notbassdescription {
-  background-color: #FA5835;
+  background-color: #CA5835;
 }
 
 p.bassdescription {
@@ -39,4 +42,19 @@ p.bassdescription {
 img.fourstringpic {
   height: 350px;
   width: 100px;
+}
+
+span.isnot {
+  font-size: 1.5rem;
+  color: #E31C3A;
+}
+
+h3, li {
+  background-color: #EEE;
+  width: 20%;
+}
+
+img.largemouthbasspic {
+  width: 35%;
+  height: auto;
 }
