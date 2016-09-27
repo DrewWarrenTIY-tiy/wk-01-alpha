@@ -21,3 +21,7 @@ h1 {
 p.bassdescription {
   font-size: 1.2em;
 }
+
+.notabass {
+  border: 10px dotted red;
+}
