@@ -11,7 +11,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
 - Add styling including at least one instance for each of these **properties**:
   - [ ] width
   - [ ] height
-  - [ ] display
+  - [x] display
   - [ ] margin
   - [ ] padding
   - [ ] border
@@ -19,7 +19,7 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [x] background-color
   - [ ] background-image
   - [x] color
-  - [ ] font-size
+  - [x] font-size
   - [x] font-style
   - [ ] text-align
   - [ ] font-weight
@@ -31,9 +31,9 @@ Without worrying about positioning, have fun styling your "wk-01-alpha" project,
   - [ ] em
 - [ ] Modify each of the four different anchor states
 - Make
-  - [ ] small and frequent git commits
-  - [ ] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
-- [ ] Ensure you've set the GitHub pages to use your "master branch".
+  - [x] small and frequent git commits
+  - [x] with messages following the basic AngularJS Git Commit Msg Convention style (per [Git Commit Messages](https://karma-runner.github.io/1.0/dev/git-commit-msg.html))
+- [x] Ensure you've set the GitHub pages to use your "master branch".
 
 ****
 

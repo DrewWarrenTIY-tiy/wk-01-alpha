@@ -9,3 +9,15 @@ h1 {
 #contrabass {
   text-decoration: underline;
 }
+
+.bassdescription {
+  display: inline;
+}
+
+.notbassdescription {
+  background-color: #FA5835;
+}
+
+p.bassdescription {
+  font-size: 1.2em;
+}
