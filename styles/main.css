@@ -6,6 +6,10 @@ body {
   background-size: 50%;
 }
 
+header {
+  margin-top: 10%;
+}
+
 h1 {
   font-style: oblique;
   font-weight: normal;
@@ -44,4 +48,32 @@ h3, li {
 
 img.largemouthbasspic, img.bassoon {
   width: 35%;
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#navbar li {
+  float: left;
+  display: inline;
+  width: 100px;
+}
+
+#navbar li a:hover {
+  background-color: #111;
+}
+
+.floatleft {
+  float: left;
+}
+
+.floatright {
+  float: right;
 }
