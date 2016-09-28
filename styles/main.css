@@ -13,14 +13,6 @@ h1 {
   background-color: #FFF;
 }
 
-.doublebass {
-  background-color: #9E3F32;
-}
-
-#contrabass {
-  text-decoration: underline;
-}
-
 .bassdescription {
   background-color: grey;
   display: inline;
@@ -28,16 +20,11 @@ h1 {
 }
 
 .notbassdescription {
-  background-color: #CA5835;
   width: 25%;
 }
 
 p.bassdescription {
   font-size: 1.2em;
-}
-
-.notabass {
-  border: 10px dotted red;
 }
 
 img.fourstringpic {
@@ -55,11 +42,6 @@ h3, li {
   width: 20%;
 }
 
-img.largemouthbasspic {
-  background-color: #CCC;
+img.largemouthbasspic, img.bassoon {
   width: 35%;
-  height: auto;
-  margin: 30px;
-  padding: 20px;
-  border-radius: 5%;
 }
