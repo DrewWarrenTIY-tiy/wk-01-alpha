@@ -16,10 +16,10 @@ Ensure that you:
       - [x] in each list item should have a styled link  (e.g. a link to an internal id, a link to a second page, and a link to an additional resources page)
       - [x] the list items should be aligned horizontally _and_ without bullets
     - [x] The right grouping has one or two buttons (e.g. a link to a non-existent log-in, and a link to a non-existent profile page)
-- [ ] Use the **main** element to contain your main content.
-- [ ] Use div elements to divide your content up into 5 logical groups which will be referred to as **cards**.
+- [x] Use the **main** element to contain your main content.
+- [x] Use div elements to divide your content up into 5 logical groups which will be referred to as **cards**.
 - [ ] Position your cards so there are 3 cards in a top row and 2 in the bottom row (e.g. 3 columns).  _Do **not** use a table to position your cards!_
-- [ ] Use a footer element to display your personal information (e.g. your name, a link to your github profile, links to any of your social media forms, etc.).  Ensure your personal information is centered in the footer.
+- [x] Use a footer element to display your personal information (e.g. your name, a link to your github profile, links to any of your social media forms, etc.).  Ensure your personal information is centered in the footer.
 
 - Make
   - [ ] small and frequent git commits
