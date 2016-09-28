@@ -8,9 +8,9 @@ ASSIGNMENT CONSTRAINTS (and other notes)
 - You do not need to keep any of the styling from yesterday's assignment.  Keep what you want, change what you want.
 ****
 Ensure that you:
-- [ ] Use a **header** element to contain:
+- [x] Use a **header** element to contain:
   - [x] A **page title** in the appropriate element
-  - [ ] A **navigation bar** broken into two sub-groupings
+  - [x] A **navigation bar** broken into two sub-groupings
     - [x] The left grouping in the navigation bar needs:
       - [x] to be an unordered list of two or more items
       - [x] in each list item should have a styled link  (e.g. a link to an internal id, a link to a second page, and a link to an additional resources page)

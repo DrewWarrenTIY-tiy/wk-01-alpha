@@ -31,9 +31,23 @@ p.bassdescription {
   font-size: 1.2em;
 }
 
+p.notbassdescription {
+  background-color: #ccc;
+}
+
 img.fourstringpic {
   height: 350px;
   width: 100px;
+}
+
+img.standuppic, img.fivestring, img.fourstringpic, img.twelvestring {
+  width: 100px;
+  height: auto;
+}
+
+img.twelvestring {
+  width: 100px;
+  height: auto;
 }
 
 span.isnot {
@@ -79,16 +93,36 @@ img.largemouthbasspic, img.bassoon {
 }
 
 main {
+  margin-bottom: 10%;
   padding-top: 5%;
   padding-bottom: 10%;
 }
 
 footer {
   background-color: #fff;
-  padding-top: .1%;
-  margin-top: .1%;
+  height: 80px;
   position: fixed;
   bottom: 0;
   width: 100%;
   text-align: center;
+  margin-top: 500px;
+}
+
+.columnone {
+  clear: both;
+  float: left;
+  width: 290px;
+  margin-right: 10px;
+}
+
+.columntwo {
+  float: left;
+  width: 290px;
+  margin: 0 5px 0 5px;
+}
+
+.columnthree {
+  float:left;
+  width: 290px;
+  margin-left: 10px;
 }
