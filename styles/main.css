@@ -46,7 +46,7 @@ img.standuppic, img.fivestring, img.fourstringpic, img.twelvestring {
 }
 
 img.twelvestring {
-  width: 100px;
+  width: 100%;
   height: auto;
 }
 
@@ -61,7 +61,8 @@ h3, li {
 }
 
 img.largemouthbasspic, img.bassoon {
-  width: 35%;
+  width: 100%;
+  height: auto;
 }
 
 #navbar {
@@ -125,4 +126,9 @@ footer {
   float:left;
   width: 290px;
   margin-left: 10px;
+}
+
+.makespace {
+  clear: both;
+  color: transparent;
 }
