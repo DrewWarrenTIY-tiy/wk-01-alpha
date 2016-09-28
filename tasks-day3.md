@@ -9,7 +9,7 @@ ASSIGNMENT CONSTRAINTS (and other notes)
 ****
 Ensure that you:
 - [ ] Use a **header** element to contain:
-  - [ ] A **page title** in the appropriate element
+  - [x] A **page title** in the appropriate element
   - [ ] A **navigation bar** broken into two sub-groupings
     - [ ] The left grouping in the navigation bar needs:
       - [ ] to be an unordered list of two or more items
